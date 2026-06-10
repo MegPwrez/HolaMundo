@@ -1,20 +1,14 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package holaejemplo;
 
 /**
  *
- * @author Amanda Pérez
+ * @author Gregory Jeronimo
  */
 public class HolaEjemplo {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+ System.out.println("Hola Mundo, como se encuentran?");        // TODO code application logic here
     }
     
 }
